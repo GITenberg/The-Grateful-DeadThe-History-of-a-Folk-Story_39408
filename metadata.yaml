@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40005'
     url: http://www.gutenberg.org/2009/agents/40005
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39408#The-Grateful-DeadThe-History-of-a-Folk-Story
 gutenberg_issued: '2012-04-09'
 gutenberg_type: Text
 identifiers:
