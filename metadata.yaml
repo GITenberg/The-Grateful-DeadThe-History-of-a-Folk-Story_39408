@@ -1,0 +1,29 @@
+_repo: The-Grateful-DeadThe-History-of-a-Folk-Story_39408
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gerould, Gordon Hall
+    birthdate: 1877
+    deathdate: 1953
+    gutenberg_agent_id: '40005'
+    url: http://www.gutenberg.org/2009/agents/40005
+description: ''
+gutenberg_issued: '2012-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39408'
+  lccn: 09006001
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folk literature -- Themes, motives'
+- !lcc 'GR'
+- !lcsh 'Grateful dead (Tale)'
+- !lcsh 'Dead -- Folklore'
+title: 'The Grateful Dead: The History of a Folk Story'
+url: http://www.gutenberg.org/ebooks/39408
